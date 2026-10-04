@@ -7,7 +7,7 @@ The public home of Nine Lives Software's games, published with GitHub Pages:
 
 | Game | Release | Play | Download |
 |---|---|---|---|
-| NOIR: The Midnight Ledger | Release 1 (v5.4.1) | [in your browser](https://phonie-bytes.github.io/nine-lives-software/games/noir/play/) | [Windows .exe](https://github.com/phonie-bytes/nine-lives-software/releases/tag/noir-v5.4.1) |
+| NOIR: The Midnight Ledger | Release 1 (v5.4.1) | [Act One in your browser](https://phonie-bytes.github.io/nine-lives-software/games/noir/play/) | [Windows .exe, the full story](https://github.com/phonie-bytes/nine-lives-software/releases/tag/noir-v5.4.1) |
 
 This repository holds only the **published** games (built files, manuals, pictures).
 The games' source code is kept privately.
