@@ -33,17 +33,15 @@ The game opens with the studio's intro - click or press any key to skip it.
 
 On the title screen:
 
-- **NEW GAME** asks for a difficulty and how much of the story you want:
-  - **Easy / Normal / Hard** - see *Difficulty* below.
-  - **Act One Only** - find out who killed Eddie. Ends at Pier 9. 100 points.
-  - **The Full Story** - acts one and two. Six more locations, 200 points, several endings.
+- **NEW GAME** asks for a difficulty (**Easy / Normal / Hard** - see *Difficulty* below);
+  then **BEGIN THE CASE**: find out who killed Eddie. Seven locations, 100 points.
 - **CONTINUE** picks up from the autosave (made every time you enter a room).
 - **LOAD GAME** opens your ten save slots.
 - **ABOUT** shows who made the game, and the end credits.
-- **QUIT** closes the game. (In the middle of a game, Esc opens the menu, which can take you
+- **QUIT** closes the game (in the browser, just close the tab). (In the middle of a game, Esc opens the menu, which can take you
   back to the title.)
 
-![How much of the story?](images/new_game.png)
+![New game](images/new_game.png)
 
 ---
 
@@ -217,7 +215,8 @@ again. Delete asks before it throws anything away.
 
 ![Load game](images/load.png)
 
-Saves live in `%APPDATA%\NoirMidnightLedger\` on Windows (`./saves` elsewhere).
+Saves live in `%APPDATA%\NoirMidnightLedger\` on Windows (`./saves` elsewhere). In the browser
+they stay in that browser (clearing its site data deletes them).
 
 ---
 
