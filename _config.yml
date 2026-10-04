@@ -1,0 +1,10 @@
+# GitHub Pages: Markdown pages (the game manuals) render with the Midnight theme;
+# the HTML pages (studio, game pages, the player) are served as they are.
+title: Nine Lives Software
+description: adventures worth dying for
+theme: jekyll-theme-midnight
+exclude:
+  - README.md
+  - THIRD-PARTY.md
+  - LICENSE.md
+  - licenses

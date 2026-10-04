@@ -1,0 +1,46 @@
+/* Nine Lives Software - one stylesheet, film-noir, red only where it matters */
+:root {
+  --ink: #121114;
+  --panel: #1b1a1e;
+  --paper: #ece8dc;
+  --dim: #948f86;
+  --red: #b51c26;
+  --line: #2e2d31;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--ink); color: var(--paper); }
+body {
+  font-family: "Courier Prime", "Courier New", monospace;
+  line-height: 1.55;
+  font-size: 17px;
+}
+a { color: var(--paper); text-decoration-color: var(--red); text-underline-offset: 3px; }
+a:hover { color: #fff; }
+.wrap { max-width: 980px; margin: 0 auto; padding: 0 16px; }
+header.studio { text-align: center; padding: 48px 0 24px; }
+header.studio img { width: min(640px, 100%); image-rendering: pixelated; border: 1px solid var(--line); }
+h1, h2, h3 { font-weight: 700; letter-spacing: 0.04em; margin: 0.6em 0 0.3em; }
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.4rem; border-bottom: 2px solid var(--red); display: inline-block; padding-bottom: 2px; }
+.tagline { color: var(--dim); font-size: 1.05rem; margin-top: 4px; }
+.games { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 24px 0 48px; }
+.card { background: var(--panel); border: 1px solid var(--line); padding: 0 0 18px; }
+.card img { width: 100%; display: block; image-rendering: pixelated; border-bottom: 1px solid var(--line); }
+.card .body { padding: 0 18px; }
+.card.soon { display: flex; align-items: center; justify-content: center; min-height: 260px; color: var(--dim); text-align: center; padding: 24px; }
+.badge { display: inline-block; border: 1px solid var(--red); color: var(--paper); font-size: 0.8rem; padding: 1px 8px; margin-right: 6px; }
+.buttons { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0 4px; }
+.btn {
+  display: inline-block; padding: 9px 16px; border: 1px solid var(--paper); text-decoration: none;
+  color: var(--paper); background: transparent; font-weight: 700; letter-spacing: 0.05em;
+}
+.btn:hover { background: var(--paper); color: var(--ink); }
+.btn.primary { background: var(--red); border-color: var(--red); }
+.btn.primary:hover { background: #d4232f; color: #fff; }
+.shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin: 16px 0; }
+.shots img { width: 100%; image-rendering: pixelated; border: 1px solid var(--line); }
+ul { padding-left: 1.2em; }
+li { margin: 4px 0; }
+.note { color: var(--dim); font-size: 0.92rem; }
+footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 24px 0 40px; color: var(--dim); font-size: 0.85rem; }
+footer p { margin: 6px 0; }
