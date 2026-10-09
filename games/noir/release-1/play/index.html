@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NOIR: The Midnight Ledger - Release 1 (v5.4.4)</title>
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; background: #000; }
+    canvas { position: absolute; inset: 0; width: 100%; height: 100%; outline: none; background: #121114; }
+    #hint {
+      position: absolute; left: 0; right: 0; bottom: 8px; text-align: center; z-index: 2;
+      font: 13px "Courier New", monospace; color: #948f86; pointer-events: none;
+    }
+  </style>
+  <!-- visit counter: GoatCounter (no cookies, nothing personal) -->
+  <script data-goatcounter="https://ninelivessoftware.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</head>
+<body>
+  <canvas id="glcanvas" tabindex="1"></canvas>
+  <div id="hint">Release 1 (v5.4.4), kept to compare &middot; click the game for sound &middot; F11 for full screen</div>
+  <!-- loaders from the exact crate versions the game is built with: miniquad 0.4.11, quad-snd 0.2.8 -->
+  <script src="gl.js"></script>
+  <script src="audio.js"></script>
+  <script src="sapp_jsutils.js"></script>
+  <script src="quad-storage.js"></script>
+  <script>
+    load("noir.wasm");
+    document.getElementById("glcanvas").focus();
+    setTimeout(function () { document.getElementById("hint").style.display = "none"; }, 9000);
+  </script>
+</body>
+</html>

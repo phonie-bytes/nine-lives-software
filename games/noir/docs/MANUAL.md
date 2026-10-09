@@ -27,9 +27,12 @@ them shows. The cops want you to leave it alone. You don't do that.
 
 ## Starting a game
 
-The game opens with the studio's intro - click or press any key to skip it.
+The game opens with the studio's intro and, with the polished art, a short story of how it
+all began - click or press any key to skip either.
 
-![Nine Lives Software](images/splash.png)
+| The studio | The story so far |
+|---|---|
+| ![Nine Lives Software](images/splash.png) | ![The Harlow Herald](images/story_paper.png) |
 
 On the title screen:
 
@@ -51,8 +54,8 @@ On the title screen:
 
 ![Kane's office. Verbs at the bottom left, inventory in the middle, NOTES and MENU on the right; score and honor at the top.](images/playing.png)
 
-Pick a verb at the bottom left (or press **1-4**, or right-click to cycle), then
-click something in the scene.
+Pick a verb at the bottom left (or press **1-4**, **Q** or right-click to cycle), then
+click something in the scene. The little labels on the buttons are their keys.
 
 | Verb | What it does |
 |---|---|
@@ -76,6 +79,7 @@ lonely job).
 Text types itself out; click, **Space** or **Enter** shows it all, and again to
 continue. When someone has more to say, a menu of topics appears - click one or
 press its number. Ask everyone everything: people say more than they mean to.
+With the polished art (**G**), the speaker's mouth moves while their line types out.
 
 | Someone talking | A topic menu |
 |---|---|
@@ -89,6 +93,12 @@ pinned to the board, with red string between the ones that belong together. The
 stuck, start there.
 
 ![The case notebook](images/notebook.png)
+
+The notebook has a second page, **PEOPLE** (click the tab at the top): everyone who's told you
+something - their face, who they are, and what they said, the latest first. People lie, so put
+what they said side by side and look for what doesn't fit.
+
+![The PEOPLE page](images/notebook_people.png)
 
 ### Deductions
 
@@ -124,7 +134,8 @@ Some people won't tell you anything. You can be patient, or you can make them ta
 Most people will talk either way. But the meter at the top of the screen
 remembers how you got your answers, and so does Port Harlow: some people won't
 help a man with a reputation, and how the story ends depends on who you've
-become. Some people Kane simply won't touch - and some are very bad ideas
+become. People remember, too: who you hurt, and how you got your answers, can come back to you
+later in the story. Some people Kane simply won't touch - and some are very bad ideas
 to try it on.
 
 | Honor | You are |
@@ -199,12 +210,15 @@ or quit to the title screen.
 | ![Menu](images/menu.png) | ![Settings](images/settings.png) |
 
 **Settings** are remembered between games: game speed (slow to very fast), text
-speed (up to instant), the look, music and effects volume, and the difficulty for
-new games.
+speed (up to instant), the look, the art detail, the sound, music and effects volume, and
+the difficulty for new games.
 
 ---
 
 ## Saving
+
+The game keeps your **play time**: it's in the pause menu, in the notebook next to your score,
+on each saved game and at the end (with how long act one took). The menus don't count.
 
 **F5** saves (ten slots), **F7** loads - or use the menu. The game also autosaves
 every time you enter a room. You can't save while a gun is pointed at you.
@@ -232,20 +246,41 @@ Press **C** at any time to switch how the game looks:
 |---|---|---|
 | ![Accent](images/look_accent.png) | ![Gray](images/look_gray.png) | ![Classic](images/look_classic.png) |
 
+Press **G** to switch the **art detail**: *polished* (the default - finer pictures with soft
+light, glowing neon, wet streets that mirror the lights, and more detailed people whose faces
+show how they feel) or *v4*, the art as it was before. The 1-bit look always uses the v4 art.
+
+| Polished | v4 |
+|---|---|
+| ![Polished](images/look_accent.png) | ![v4](images/detail_v4.png) |
+
+Press **S** to switch the **sound**: *rich* (the default - stereo, fuller instruments,
+footsteps, and the sounds of the city: traffic, a far-off siren, a radiator, a humming bulb) or
+*classic*.
+
 ---
 
 ## Keys
 
+You can play with the mouse, the keyboard, or both - the whole game works without a mouse.
+
 | Key | |
 |---|---|
+| Arrow keys | Walk. Walk into a way out (a door, the edge of the street) to go through it |
+| Enter / E | Do what your verb says to the nearest thing (WALK on something just looks at it) |
+| TAB + left / right | Pick something in the room (it lights up), then Enter / E to act on it |
+| I | Take the next thing from your pockets (again for the next one; after the last, back to WALK) |
 | 1-4 | WALK / LOOK / USE / TALK (or pick a topic in a conversation) |
+| Q / Shift + Q | Next / previous verb |
 | Right-click | Cycle verbs; skip text |
 | Space / Enter / click | Show all text; continue |
-| TAB (hold) | Label every hotspot |
+| TAB (hold) | Label every hotspot (not on Hard) |
 | N | Case notebook |
 | Esc | Drop held item; leave a conversation; close a menu; otherwise open the menu |
 | F5 / F7 | Save / load |
 | C | Cycle the look |
+| G | Art detail: polished / v4 |
+| S | Sound: rich / classic |
 | M | Mute |
 | F11 | Fullscreen |
 
