@@ -74,6 +74,11 @@ another item (to combine them), or Kane himself. **Esc** puts it back. With
 LOOK or TALK selected, clicking an item examines it (or talks to it - it's a
 lonely job).
 
+### Cutscenes
+
+Now and then the story takes over for a few seconds - the first time you walk into the Blue
+Moon, for one. Click (or press Space, Enter or Esc) to skip a cutscene.
+
 ### Conversations
 
 Text types itself out; click, **Space** or **Enter** shows it all, and again to
