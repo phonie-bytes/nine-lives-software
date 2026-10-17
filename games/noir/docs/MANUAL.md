@@ -14,7 +14,7 @@
 
 Port Harlow, 1947. It has been raining for eleven days straight.
 
-Last night they fished your partner, Eddie Walsh, out of the harbor. The police
+This morning they fished your partner, Eddie Walsh, out of the harbor. The police
 wrote it up as an accident. Funny thing: Eddie couldn't swim, so he never went
 near the water.
 
@@ -183,6 +183,7 @@ office couch helps, but costs time.
 | Current lead in the notebook | yes, plus a gut feeling | yes | no |
 | "?" on doubtful clues | yes | no | no |
 | TAB labels | yes | yes | no |
+| Clues still lying around glint (red, or white in grayscale / 1-bit; the hover says so too) | yes | no | no |
 
 ---
 
@@ -290,6 +291,16 @@ You can play with the mouse, the keyboard, or both - the whole game works withou
 | F11 | Fullscreen |
 
 ---
+
+## On a phone or tablet
+
+Hold it sideways - NOIR plays in landscape (held upright, it asks you to turn it).
+
+- **Tap** = click: tap a verb, then tap something in the scene; tap an item to hold it.
+- **Hold your finger still** for half a second on anything = **LOOK** at it, whatever verb you have.
+- **[?]** at the top right shows everything you can tap (like holding TAB; not on Hard).
+- **NOTES** and **MENU** in the corner of the panel: the notebook, and saving, loading and the settings.
+- Double-tap an exit to hurry through it.
 
 ## A private eye's tips
 

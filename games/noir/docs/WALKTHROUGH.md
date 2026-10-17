@@ -91,12 +91,12 @@ In the notebook, click one card and then another to connect them. Some deduction
 | Eddie 'drowned' - but he couldn't swim. Crane gi... | Eddie's file: 'Blue Moon. Crane. Follow the mone... | Eddie didn't drown by accident. He was following... | yes |
 | Big Tony's knuckles are scabbed over - fresh, a... | Sal: Big Tony walked Eddie out the back on Tuesd... | Big Tony walked Eddie out back and beat him to d... | **no - a red herring** |
 | Vera, the cigarette girl: Eddie left Tuesday wit... | Rita: Crane had Eddie killed. She gave me the ke... | Rita lured Eddie out to his death - and now she'... | **no - a red herring** |
-| Swede, a sailor: saw Eddie walk off Pier 9 drunk... | Eddie 'drowned' - but he couldn't swim. Crane gi... | Eddie got drunk and fell off the pier. An accide... | **no - a red herring** |
+| Swede, a sailor: saw Eddie drunk on Pier 9 on Tu... | Eddie 'drowned' - but he couldn't swim. Crane gi... | Eddie got drunk and fell off the pier. An accide... | **no - a red herring** |
 
 Where the red herrings lead:
 
 - *Big Tony killed Eddie* - phone it in to Brody from your office and Big Tony goes down for it: **The Wrong Man** ending.
-- *Rita set Eddie up* (Vera the cigarette girl's red coat) - phone it in and Rita goes down for it: **The Wrong Woman** ending.
+- *Rita set Eddie up* (Vera the cigarette girl's red-coat story) - phone it in and Rita goes down for it: **The Wrong Woman** ending.
 - *It was an accident* (Swede the sailor's story) - tell Brody you're dropping it: **The Easy Answer** ending.
 
 ### The wrong man
