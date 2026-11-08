@@ -304,7 +304,7 @@ version so far.
 
 ## Credits
 
-Designed by **Pieter De Villiers** (TheOne). Made with the assistance of Claude.
+Designed by **Pieter De Villiers**. Made with the assistance of Claude.
 Every picture and every note of music in HedgeRow is made in code as the game runs.
 
 &copy; 2026 Nine Lives Software. All rights reserved.
