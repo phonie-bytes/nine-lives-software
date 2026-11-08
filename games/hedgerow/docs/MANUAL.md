@@ -4,6 +4,9 @@
 
 ![HedgeRow](images/splash.png)
 
+> **A proof of concept.** HedgeRow is still being designed and built: this version is one
+> season with three crops, crows, a fox and hail. Numbers and rules may change.
+
 > This manual explains how everything works. For a plan that wins a season, see
 > [WALKTHROUGH.md](WALKTHROUGH.md).
 
