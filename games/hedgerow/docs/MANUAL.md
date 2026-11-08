@@ -292,6 +292,8 @@ version so far.
 
 ## Requirements
 
+- **In a browser:** play it on the website, no download. Chrome, Edge or Firefox on a
+  computer with a keyboard and mouse (not on phones yet). Click the game once for sound.
 - **Windows:** Windows 10 or 11. The download is a single `.exe`: no installer, just run
   it. Windows may warn that it's from an unknown publisher: choose "More info", then
   "Run anyway".
