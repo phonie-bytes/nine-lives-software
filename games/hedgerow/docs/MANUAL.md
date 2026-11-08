@@ -1,6 +1,6 @@
 # HedgeRow - Player's Manual
 
-*A Nine Lives Software game. Designed by Pieter De Villiers.*
+*A Nine Lives Software game by Pieter De Villiers.*
 
 ![HedgeRow](images/splash.png)
 
@@ -304,7 +304,8 @@ version so far.
 
 ## Credits
 
-Designed by **Pieter De Villiers**. Made with the assistance of Claude.
+Idea, design and development by **Pieter De Villiers**, with the assistance of Claude and
+other tools.
 Every picture and every note of music in HedgeRow is made in code as the game runs.
 
 &copy; 2026 Nine Lives Software. All rights reserved.

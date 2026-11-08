@@ -18,7 +18,7 @@ The games' source code is kept privately.
 - `games/<game>/` - each game: its page, `play/` (the browser edition), `docs/` (manual, walkthrough, history)
 - Windows builds are attached to this repository's [Releases](https://github.com/phonie-bytes/nine-lives-software/releases)
 
-Games designed by Pieter De Villiers, made with the assistance of Claude.
+Idea, design and development by Pieter De Villiers, with the assistance of Claude and other tools.
 &copy; 2026 Nine Lives Software. All rights reserved - see [LICENSE.md](LICENSE.md) and [THIRD-PARTY.md](THIRD-PARTY.md).
 
 *Our games are works of fiction. Names, characters, businesses, places, events and incidents are either
